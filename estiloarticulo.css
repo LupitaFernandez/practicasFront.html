@@ -1,20 +1,21 @@
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Tahoma, Helvetica, sans-serif;
     font-size: 18px;
     width: 900px;
+    text-align: justify
 };
 
 h1 {
     font-size: 37px;
     line-height: 46px;
-    font-family: Tahoma, sans-serif, Helvetica;
     color: #000000;
+    
 };
 
 h2 {
     font-size: 25px;
     line-height: 38px;
-    font-family: Tahoma, Helvetica, sans sans-serif;
+   
 };
 
 h3{
@@ -26,4 +27,5 @@ p {
     font-size: 18px;
     line-height: 27px;
     color: #333
-}
+};
+
